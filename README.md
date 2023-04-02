@@ -4,7 +4,7 @@ As you can find in name of this proyect it's my first program. When I was kid I 
 ## What this program doing?
 Technicly nothing... It have menu with option to go to the menu, to change color of terminal, to execute selected windows command, and option to close program... Yes... As I said absolutely nothing. But this one file is sentimental for me, so I decided to place it here as public repo on github.
 ## You still holding that old files normal?
-No. It was a happy accident that I found this. When I got new laptop this one stayed in my grandparents house if something had to be done on this. My grandparents never used this laptop and one time they gave me it back. Of course this file sitll existed, becouse no one would use it almost all the time. I revieved files and find this super little proyect and some other nice stuff for me.
+No. It was a happy accident that I found this. When I got new laptop this one stayed in my grandparents house if something had to be done on this. My grandparents never used this laptop and one time they gave me it back. Of course this file sitll existed, because no one would use it almost all the time. I revieved files and find this super little proyect and some other nice stuff for me.
 ## What language is that?
 I decided to keep orginal language and not to change anything, so it's in my national polish language.
 ## Don't judge me!
